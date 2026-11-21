@@ -1,0 +1,15 @@
+# wealthdatalayer.com — The Data Layer Wealth Runs On
+> The category-defining domain for wealth data infrastructure — aggregation, normalization, and the unified record every advisor platform needs.
+> It publishes research on wealth data infrastructure, aggregation, and advisor platforms.
+> The wealthdatalayer.com domain is for sale at $10,000 (Buy Now) via Afternic, secured by Escrow.com.
+
+## Key pages
+- [wealthdatalayer.com](https://wealthdatalayer.com/)
+- [Market data](https://wealthdatalayer.com/market-data)
+- [The Wealth Data Layer: Infrastructure Behind Modern Advisory](https://wealthdatalayer.com/insights/article1)
+- [Data Aggregation in Wealth Management: State of the Market 2026](https://wealthdatalayer.com/insights/article2)
+- [Why Data Quality Is the Bottleneck in WealthTech](https://wealthdatalayer.com/insights/article3)
+- [Open Banking vs. Screen Scraping: What the Data-Pipe Reversal Means for Advisors](https://wealthdatalayer.com/insights/article8)
+
+## Optional
+- [Sitemap](https://wealthdatalayer.com/sitemap.xml)
